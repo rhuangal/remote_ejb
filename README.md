@@ -12,7 +12,7 @@ Se recomienda utilizar un servidor Glassfish 4.1.2
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Para revisar las versiones disponibles, por favor ir al siguiente link [tags on this repository](https://github.com/rhuangal/remote_ejb/tags). 
 
 ## Authors
 
