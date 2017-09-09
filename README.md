@@ -4,9 +4,9 @@ Este proyecto muestra como desarrollar una aplicacion con Java EJB y con api Rem
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
-
 ## Built With
+El código del prosente proyecto ha sido realizado NetBeans
+Se recomienda utilizar un servidor Glassfish 4.1.2
 
 ## Contributing
 
