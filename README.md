@@ -18,7 +18,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 * **Roberto Huangal** - *Proyecto Inicial* - [rhuangal](https://github.com/rhuangal)
 
-Ademas ver la lista de [contributors](https://github.com/your/remote_ejb/contributors) quienes participan en este proyecto.
+Ademas ver la lista de [contributors](https://github.com/rhuangal/remote_ejb/contributors) quienes participan en este proyecto.
 
 ## License
 
