@@ -22,4 +22,6 @@ Ademas ver la lista de [contributors](https://github.com/your/remote_ejb/contrib
 
 ## License
 
+Este codigo ha sido realizado bajo la licencia [MIT License](http://opensource.org/licenses/MIT).
+
 ## Acknowledgments
